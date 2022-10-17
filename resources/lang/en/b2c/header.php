@@ -1,0 +1,75 @@
+<?php
+
+return [
+
+    'flights' => 'Flights',
+    'hotels' => 'Hotels',
+    'extranet' => 'Extranet',
+    'become partner' => 'Become Partner',
+    'about us' => 'About us',
+    'french' => 'French',
+    'english' => 'English',
+    'login' => 'Login',
+    'my account' => 'My Account',
+    'change password' => 'Change Password',
+    'logout' => 'Logout',
+    // frontpage elements
+    'topflight' => 'One way trip to Roundtrip',
+    'topflight text' => '“Fly higher and higher, visit Africa and tell you how beautiful it is”',
+    'tophotel' => 'Top Hotel Destinatins',
+    'tophotel text' => '“I choose warfir@, to go into the arms of morphea”',
+    'testimonials' => 'What our customers say',
+    'follow' => 'Follow Us',
+    'follow text' => 'All our news on your favourite social networks',
+    'newsletter' => 'Our Newsletter',
+    'copyright' => 'Copyright © 2022 All rights reserved.',
+    'subscribe' => 'Subscribe',
+    //Modify form elements
+    'from' => 'From',
+    'to' => 'to',
+    'noflight' => 'No flights were found for this route today.',
+    'noflight text' => 'Search results change daily based on availability.If you have an urgent requirement, please get in touch with our call center using the contact details mentioned on the home page. They will assist you to the best of their ability.xxx',
+    'depart' => 'Départ',
+    'booknow' => 'Book now',
+    'norefund' => 'Non-Refundable',
+    'flight details' => 'Flight details',
+    'deadline' => 'Booking Deadline',
+    'noresult' => 'No Result Found!!!',
+    // Flight details
+    'itinerary' => 'Itinerary',
+    'please wait' => 'Please Wait',
+    'seat' => 'seat',
+    'change plane' => 'Plane change at',
+    'waiting' => 'Waiting',
+    'total fare breakup' => 'Total Fare Breakup',
+    'base fare' => 'Total Base Fare',
+    'tax and fees' => 'Taxes &amp; Fees',
+    // Booking page
+    'travellers' => 'Travellers',
+    'traveller' => 'Traveller',
+    'extra baggage' => 'Extra Baggage Charge Rs',
+    'meal charge' => 'Meal Charge Rs',
+    'seat charge' => 'Seat Charge Rs',
+    // Search form
+    'one way' => 'One Way',
+    'roundtrip' => 'Roundtrip / Return',
+    'multi city' => 'Multi-city',
+    'adults' => 'Adults',
+    'children' => 'Children',
+    'infants' => 'Infants',
+    'done' => 'Done',
+    'depart city' => 'Type Departure City',
+    'destin city' => 'Type Destination City',
+    'date depart' => 'Departure date',
+    'date return' => 'Return date',
+    'select date' => 'Select Date',
+    'search' => 'Search',
+    'add city' => 'Add City',
+    'cabin class' => 'Cabin Class',
+    'preferred airline' => 'Preferred Airline',
+    'all' => 'All',
+    // Preload text
+    'prelad text' => 'We are seeking the best results for your search. Please wait. This will take only few seconds......'
+
+
+];
